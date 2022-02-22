@@ -1,0 +1,9 @@
+ .field {
+     display: grid;
+     grid-template-columns: repeat(10, 50px);
+ }
+
+ button {
+     height: 50px;
+     font-size: 24px;
+ }
